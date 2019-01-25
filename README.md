@@ -1,5 +1,9 @@
 # vue-note
 
+## Detail
+
+基于VUE的简单网页Todolist, 使用了VUE-STORE, 部分样式使用了SCSS编译。
+
 ## Project setup
 ```
 yarn install
